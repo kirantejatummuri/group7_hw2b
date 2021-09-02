@@ -1,10 +1,11 @@
 # Good2Great Repo
 
 
-![Issues](https://img.shields.io/github/issues/NCSU-Group7-SE2021/group7_hw2b)
-![License](https://img.shields.io/github/license/NCSU-Group7-SE2021/group7_hw2b)
-![Forks](https://img.shields.io/github/forks/NCSU-Group7-SE2021/group7_hw2b)
-![example workflow](https://github.com/NCSU-Group7-SE2021/group7_hw2b/actions/workflows/application.yml/badge.svg)
+[![Issues](https://img.shields.io/github/issues/NCSU-Group7-SE2021/group7_hw2b)](https://github.com/NCSU-Group7-SE2021/group7_hw2b/issues)
+[![License](https://img.shields.io/github/license/NCSU-Group7-SE2021/group7_hw2b)](https://github.com/NCSU-Group7-SE2021/group7_hw2b/blob/main/LICENSE)
+[![Forks](https://img.shields.io/github/forks/NCSU-Group7-SE2021/group7_hw2b)](https://github.com/NCSU-Group7-SE2021/group7_hw2b/network/members)
+[![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.5367393-blue)](https://zenodo.org/record/5367393#.YTApFI5KhPY)
+[![example workflow](https://github.com/NCSU-Group7-SE2021/group7_hw2b/actions/workflows/application.yml/badge.svg)](https://github.com/NCSU-Group7-SE2021/group7_hw2b/actions)
 
 This repository aims to provide a basic example of a `Good Reporsitory`. There are several ideas of what can we consider as a good repository. Some ideas of such projects that we all come across are:
 1. Well-defined project structure
@@ -14,7 +15,10 @@ This repository aims to provide a basic example of a `Good Reporsitory`. There a
 5. Some automated workflows
 
 ## Table of Content
-
+1. [Installation](#installation)
+2. [License](#license)
+3. [Meet the contributors](#meet-the-contributors)
+4. [Additional Link](#additional-link)
 
 ## Installation
 A guide to direct user on how to install the repository is a step towards making a descriptive project. Here is our guide on how to install this project on your local environment
@@ -32,17 +36,30 @@ Once python is installed, please verify by checking the version in the terminal.
 
 `python --version` 
 
-Once done,
-<do the following, dependent on Luis's work>
+Once done, run the following command to install the library
+```bash
+python setup.py install
+```
+
 
 ## How to run
 <do the following, dependent on Luis's work>
 
-## Meet the contributors
-
-
 ## License
 
-## Additional Link
+Each repository should get a license. To understand more about licensing, please refer [this](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/licensing-a-repository)
 
->>>>>>> 9850144 (Updating Readme)
+This repository is [MIT licensed](https://github.com/NCSU-Group7-SE2021/group7_hw2b/blob/main/LICENSE).  
+
+## Meet the contributors
+
+1. [Eshita Arza](https://github.com/ArzaEshita)
+2. [Isha Gupta](https://github.com/isha-bansal0115)
+3. [Kiran Teja](https://github.com/kirantejatummuri)
+4. [Luis](https://github.com/lgdeloss)
+5. [Rahul Kalita](https://github.com/rahulkalita8)
+6. [Vignesh Muthukumar](https://github.com/vickymhs)
+
+## Additional Link
+1. Want to contribute? [Here]() is how you can do it.
+2. Project Standards? Say no more. [Read this]()
