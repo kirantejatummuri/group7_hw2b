@@ -6,14 +6,15 @@
 
 <p align="center">
 
-[![Issues](https://img.shields.io/github/issues/NCSU-Group7-SE2021/group7_hw2b)](https://github.com/NCSU-Group7-SE2021/group7_hw2b/issues)
+[comment]: <> ([![Issues]&#40;https://img.shields.io/github/issues/NCSU-Group7-SE2021/group7_hw2b&#41;]&#40;https://github.com/NCSU-Group7-SE2021/group7_hw2b/issues&#41;)
+[comment]: <> ([![Forks]&#40;https://img.shields.io/github/forks/NCSU-Group7-SE2021/group7_hw2b&#41;]&#40;https://github.com/NCSU-Group7-SE2021/group7_hw2b/network/members&#41;)
 [![License](https://img.shields.io/github/license/NCSU-Group7-SE2021/group7_hw2b)](https://github.com/NCSU-Group7-SE2021/group7_hw2b/blob/main/LICENSE)
-[![Forks](https://img.shields.io/github/forks/NCSU-Group7-SE2021/group7_hw2b)](https://github.com/NCSU-Group7-SE2021/group7_hw2b/network/members)
 [![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.5367393-blue)](https://zenodo.org/record/5367393#.YTApFI5KhPY)
 [![Build](https://github.com/NCSU-Group7-SE2021/group7_hw2b/actions/workflows/application.yml/badge.svg)](https://github.com/NCSU-Group7-SE2021/group7_hw2b/actions/workflows/application.yml)
+[![Travis](https://app.travis-ci.com/NCSU-Group7-SE2021/group7_hw2b.svg?branch=main)](https://app.travis-ci.com/github/NCSU-Group7-SE2021/group7_hw2b/pull_requests)
 [![CodeQL](https://github.com/NCSU-Group7-SE2021/group7_hw2b/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/NCSU-Group7-SE2021/group7_hw2b/actions/workflows/application.yml)
-![Size](https://github-size-badge.herokuapp.com/NCSU-Group7-SE2021/group7_hw2b.svg)
 
+[comment]: <> (![Size]&#40;https://github-size-badge.herokuapp.com/NCSU-Group7-SE2021/group7_hw2b.svg&#41;)
 </p>
 
 
