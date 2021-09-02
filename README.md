@@ -1,22 +1,20 @@
-<center>
+<p align="center">
 
 ![Logo](images/logo.jpg)
 # Good2Great Repo
-</center>
+</p>
 
-<center>
+<p align="center">
 
-[![Issues](https://img.shields.io/github/issues/NCSU-Group7-SE2021/group7_hw2b)](https://github.com/NCSU-Group7-SE2021/group7_hw2b/issues)
 [![Issues](https://img.shields.io/github/issues/NCSU-Group7-SE2021/group7_hw2b)](https://github.com/NCSU-Group7-SE2021/group7_hw2b/issues)
 [![License](https://img.shields.io/github/license/NCSU-Group7-SE2021/group7_hw2b)](https://github.com/NCSU-Group7-SE2021/group7_hw2b/blob/main/LICENSE)
 [![Forks](https://img.shields.io/github/forks/NCSU-Group7-SE2021/group7_hw2b)](https://github.com/NCSU-Group7-SE2021/group7_hw2b/network/members)
 [![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.5367393-blue)](https://zenodo.org/record/5367393#.YTApFI5KhPY)
-[![Testing](https://github.com/NCSU-Group7-SE2021/group7_hw2b/actions/workflows/application.yml/badge.svg "Testing")](https://github.com/rahulkalita8/group7_hw2b/actions/workflows/application.yml)
-[![CodeQL](https://github.com/rahulkalita8/group7_hw2b/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/rahulkalita8/group7_hw2b/actions/workflows/codeql-analysis.yml)
-[![Build](https://github.com/NCSU-Group7-SE2021/group7_hw2b/actions/workflows/application.yml/badge.svg)](https://github.com/NCSU-Group7-SE2021/group7_hw2b/actions)
+[![Build](https://github.com/NCSU-Group7-SE2021/group7_hw2b/actions/workflows/application.yml/badge.svg)](https://github.com/NCSU-Group7-SE2021/group7_hw2b/actions/workflows/application.yml)
+[![CodeQL](https://github.com/NCSU-Group7-SE2021/group7_hw2b/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/NCSU-Group7-SE2021/group7_hw2b/actions/workflows/application.yml)
 ![Size](https://github-size-badge.herokuapp.com/NCSU-Group7-SE2021/group7_hw2b.svg)
 
-</center>
+</p>
 
 
 This repository aims to provide a basic example of a `Good Reporsitory`. There are several ideas of what can we consider as a good repository. Some ideas of such projects that we all come across are:
