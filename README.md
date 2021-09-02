@@ -13,10 +13,6 @@
 
 ![Size](https://github-size-badge.herokuapp.com/NCSU-Group7-SE2021/group7_hw2b.svg)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=NCSU-Group7-SE2021&show_icons=true)
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NCSU-Group7-SE2021&theme=blue-green)
-
 This repository aims to provide a basic example of a `Good Repository`. There are several ideas of what can we consider as a good repository. Some ideas of such projects that we all come across are:
 1. Well-defined project structure
 2. Good coding practices like indentations and comments
