@@ -1,0 +1,28 @@
+os: xenial # Ubuntu 16.04.7 LTS
+language: python
+cache: pip
+python:
+  # Python versions
+  - "2.7"
+  - "3.4"
+  - "3.5"
+  - "3.6"
+  - "3.7"
+  - "3.8"
+  - "3.9"
+  - "3.9-dev"  # Development branch
+  - "nightly" 
+  # PyPy versions
+  - "pypy"  
+  - "pypy3"  
+# Allow modifications
+matrix:
+  allow_failures:
+      - python: "3.9-dev"
+# Install dependencies
+install:
+  - pip install -r requirements.txt
+  - pip install .
+# Run tests
+script:
+  - pytest
