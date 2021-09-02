@@ -7,7 +7,7 @@
 [![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.5367393-blue)](https://zenodo.org/record/5367393#.YTApFI5KhPY)
 [![example workflow](https://github.com/NCSU-Group7-SE2021/group7_hw2b/actions/workflows/application.yml/badge.svg)](https://github.com/NCSU-Group7-SE2021/group7_hw2b/actions)
 
-This repository aims to provide a basic example of a `Good Reporsitory`. There are several ideas of what can we consider as a good repository. Some ideas of such projects that we all come across are:
+This repository aims to provide a basic example of a `Good Repository`. There are several ideas of what can we consider as a good repository. Some ideas of such projects that we all come across are:
 1. Well-defined project structure
 2. Good coding practices like indentations and comments
 3. A comprehensible ReadMe file (what we hope to provide with this one)
@@ -61,5 +61,5 @@ This repository is [MIT licensed](https://github.com/NCSU-Group7-SE2021/group7_h
 6. [Vignesh Muthukumar](https://github.com/vickymhs)
 
 ## Additional Link
-1. Want to contribute? [Here]() is how you can do it.
-2. Project Standards? Say no more. [Read this]()
+1. Want to contribute? [Here](CONTRIBUTING.md) is how you can do it.
+2. Project Standards? Say no more. [Read this](CODE_OF_CONDUCT.md)
