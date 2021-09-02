@@ -2,10 +2,20 @@
 
 
 [![Issues](https://img.shields.io/github/issues/NCSU-Group7-SE2021/group7_hw2b)](https://github.com/NCSU-Group7-SE2021/group7_hw2b/issues)
+
 [![License](https://img.shields.io/github/license/NCSU-Group7-SE2021/group7_hw2b)](https://github.com/NCSU-Group7-SE2021/group7_hw2b/blob/main/LICENSE)
+
 [![Forks](https://img.shields.io/github/forks/NCSU-Group7-SE2021/group7_hw2b)](https://github.com/NCSU-Group7-SE2021/group7_hw2b/network/members)
+
 [![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.5367393-blue)](https://zenodo.org/record/5367393#.YTApFI5KhPY)
-[![example workflow](https://github.com/NCSU-Group7-SE2021/group7_hw2b/actions/workflows/application.yml/badge.svg)](https://github.com/NCSU-Group7-SE2021/group7_hw2b/actions)
+
+[![Build](https://github.com/NCSU-Group7-SE2021/group7_hw2b/actions/workflows/application.yml/badge.svg)](https://github.com/NCSU-Group7-SE2021/group7_hw2b/actions)
+
+![Size](https://github-size-badge.herokuapp.com/NCSU-Group7-SE2021/group7_hw2b.svg)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=NCSU-Group7-SE2021&show_icons=true)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NCSU-Group7-SE2021&theme=blue-green)
 
 This repository aims to provide a basic example of a `Good Repository`. There are several ideas of what can we consider as a good repository. Some ideas of such projects that we all come across are:
 1. Well-defined project structure
