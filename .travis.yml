@@ -3,26 +3,16 @@ language: python
 cache: pip
 python:
   # Python versions
-  - "2.7"
-  - "3.4"
-  - "3.5"
   - "3.6"
-  - "3.7"
-  - "3.8"
-  - "3.9"
   - "3.9-dev"  # Development branch
-  - "nightly" 
-  # PyPy versions
-  - "pypy"  
-  - "pypy3"  
 # Allow modifications
 matrix:
   allow_failures:
       - python: "3.9-dev"
 # Install dependencies
 install:
-  - pip install -r requirements.txt
-  - pip install .
+  - python -m pip install --upgrade pip
+  - pip install -U pytest
 # Run tests
 script:
   - pytest
