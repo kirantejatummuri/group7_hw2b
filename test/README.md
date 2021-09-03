@@ -27,7 +27,10 @@ The following steps are run through the job:
 
 ### test_sample.py
 
-This file contains a sample test case. It checks if `2 == 2`. Since this is a valid equation, our test always passes.
+This file contains sample test cases. 
+Functions preceeding with `test_` are run by pytest.
+We have two sample functions, `test_addition` and `test_substraction` which perform simple arithmetic operations of addition and subtraction.
+
 
 
 
