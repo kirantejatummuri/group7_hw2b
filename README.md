@@ -52,10 +52,6 @@ Once done, run the following command to install the library
 python setup.py install
 ```
 
-
-## How to run
-<do the following, dependent on Luis's work>
-
 ## License
 
 Each repository should get a license. To understand more about licensing, please refer [this](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/licensing-a-repository)
